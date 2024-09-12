@@ -1,1 +1,1 @@
-console.log("tripti")
+console.log("tripti");
